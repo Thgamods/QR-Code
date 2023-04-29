@@ -23,7 +23,7 @@ Hello! This is my first challange from Frontend Mentor. In this chalange I creat
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://thgamods.github.io/QR-Code/](https://thgamods.github.io/QR-Code/)
 
 ## My process
 
