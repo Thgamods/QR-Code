@@ -18,7 +18,7 @@ Hello! This is my first challange from Frontend Mentor. In this chalange I creat
 
 ### Screenshot
 
-![Screenshot Of my Project](./src/Screenshot.png)
+![Screenshot Of my Project](./src/images/Screenshot.png)
 
 ### Links
 
