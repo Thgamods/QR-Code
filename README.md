@@ -18,7 +18,7 @@ Hello! This is my first challange from Frontend Mentor. In this chalange I creat
 
 ### Screenshot
 
-![](/images/Screenshot.png)
+![](/Screenshot.png)
 
 ### Links
 
